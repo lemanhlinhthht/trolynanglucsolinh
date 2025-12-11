@@ -263,10 +263,10 @@ if st.button("🚀 SOẠN GIÁO ÁN NGAY"):
 
                 YÊU CẦU LUÔN LUÔN TUÂN THỦ CẤU TRÚC (CÔNG VĂN 2345):
                 I. YÊU CẦU CẦN ĐẠT: Trong phần này lại chia thành các phần sau: 
-                1. Học sinh thực hiện được, 
-                2. Học sinh vận dụng được, 
-                3. Phát triển năng lực (bao gồm năng lực chung, năng lực đặc thù, phát triển năng lực số), 
-                4. Phát triển phẩm chất.
+                - Học sinh thực hiện được, 
+                - Học sinh vận dụng được,
+                - Phát triển phẩm chất,
+                - Phát triển năng lực (bao gồm năng lực chung, năng lực đặc thù, phát triển năng lực số).
                 * Nội dung tích hợp (VD: Học thông qua chơi, Công dân số,...)
                     - Lưu ý: Thêm phát triển năng lực số trong mục phát triển năng lực (Dựa vào file Khung năng lực nếu có).
                     - Nội dung tích hợp Học thông qua chơi trong Yêu cầu cần đạt cần cụ thể chi tiết hơn chút nữa.
