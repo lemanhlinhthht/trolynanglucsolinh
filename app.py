@@ -262,7 +262,7 @@ if st.button("🚀 SOẠN GIÁO ÁN NGAY"):
                 - Ghi chú bổ sung: "{noidung_bosung}".
 
                 YÊU CẦU LUÔN LUÔN TUÂN THỦ CẤU TRÚC (CÔNG VĂN 2345):
-                I. Yêu cầu cần đạt: Trong phần này lại chia thành các phần sau: 
+                I. YÊU CẦU CẦN ĐẠT: Trong phần này lại chia thành các phần sau: 
                 1. Học sinh thực hiện được, 
                 2. Học sinh vận dụng được, 
                 3. Phát triển năng lực (bao gồm năng lực chung, năng lực đặc thù, phát triển năng lực số), 
@@ -272,15 +272,15 @@ if st.button("🚀 SOẠN GIÁO ÁN NGAY"):
                     - Nội dung tích hợp Học thông qua chơi trong Yêu cầu cần đạt cần cụ thể chi tiết hơn chút nữa.
                     - Nội dung tích hợp Công dân số cũng cần cụ thể hơn trong yêu cầu cần đạt.
 
-                II. Đồ dùng dạy học
+                II. ĐỒ DÙNG DẠY - HỌC
                 1. Giáo viên
                 2. Học sinh
 
-                III. Các hoạt động dạy học chủ yếu
+                III. CÁC HOẠT ĐỘNG DẠY - HỌC CHỦ YẾU
                 [QUAN TRỌNG] PHẦN NÀY PHẢI TRÌNH BÀY DƯỚI DẠNG BẢNG (MARKDOWN TABLE) 2 CỘT. 
                 TÊN CÁC HOẠT ĐỘNG PHẢI NẰM Ở CỘT 1 (HOẠT ĐỘNG GIÁO VIÊN).
 
-                | HOẠT ĐỘNG CỦA GIÁO VIÊN | HOẠT ĐỘNG CỦA HỌC SINH |
+                | Hoạt động của giáo viên | Hoạt động của học sinh |
                 |---|---|
                 | **1. Khởi động:**<br>- GV tổ chức... | - HS tham gia... |
                 | **2. Khám phá:**<br>- GV hướng dẫn... | - HS quan sát... |
