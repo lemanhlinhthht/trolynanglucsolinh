@@ -265,7 +265,7 @@ if st.button("🚀 SOẠN GIÁO ÁN NGAY"):
                 I. Yêu cầu cần đạt: Trong phần này lại chia thành các phần sau: 
                 1. Học sinh thực hiện được, 
                 2. Học sinh vận dụng được, 
-                3. Phát triển năng lực (bao gồm năng lực đặc thù, năng lực chung, phát triển năng lực số), 
+                3. Phát triển năng lực (bao gồm năng lực chung, năng lực đặc thù, phát triển năng lực số), 
                 4. Phát triển phẩm chất.
                 * Nội dung tích hợp (VD: Học thông qua chơi, Công dân số,...)
                     - Lưu ý: Thêm phát triển năng lực số trong mục phát triển năng lực (Dựa vào file Khung năng lực nếu có).
@@ -276,16 +276,16 @@ if st.button("🚀 SOẠN GIÁO ÁN NGAY"):
                 1. Giáo viên
                 2. Học sinh
 
-                III. Tiến trình dạy học
+                III. Các hoạt động dạy học chủ yếu
                 [QUAN TRỌNG] PHẦN NÀY PHẢI TRÌNH BÀY DƯỚI DẠNG BẢNG (MARKDOWN TABLE) 2 CỘT. 
                 TÊN CÁC HOẠT ĐỘNG PHẢI NẰM Ở CỘT 1 (HOẠT ĐỘNG GIÁO VIÊN).
 
                 | HOẠT ĐỘNG CỦA GIÁO VIÊN | HOẠT ĐỘNG CỦA HỌC SINH |
                 |---|---|
-                | **1. Hoạt động 1 - Khởi động:**<br>- GV tổ chức... | - HS tham gia... |
-                | **2. Hoạt động 2 - Hình thành kiến thức mới:**<br>- GV hướng dẫn... | - HS quan sát... |
-                | **3. Hoạt động 3 - Thực hành - luyện tập:**<br>- GV yêu cầu... | - HS thực hiện... |
-                | **4. Hoạt động 4 - Vận dụng:**<br>- GV gợi mở... | - HS chia sẻ... |
+                | **1. Khởi động:**<br>- GV tổ chức... | - HS tham gia... |
+                | **2. Khám phá:**<br>- GV hướng dẫn... | - HS quan sát... |
+                | **3. Luyện tập:**<br>- GV yêu cầu... | - HS thực hiện... |
+                | **4. Vận dụng:**<br>- GV gợi mở... | - HS chia sẻ... |
 
                 YÊU CẦU CHI TIẾT CHO TIẾN TRÌNH DẠY HỌC:
                 - Cần chi tiết cụ thể (đặc biệt là Hoạt động của học sinh).
@@ -293,6 +293,7 @@ if st.button("🚀 SOẠN GIÁO ÁN NGAY"):
                 - Tích hợp Học thông qua chơi vào 1 số hoạt động phù hợp.
                 - Riêng các trò chơi trong tiến trình dạy học cần TRÌNH BÀY RÕ LUẬT CHƠI.
                 - Không cần ghi "Mục tiêu HTQC".
+                - Không ghi chữ GV ở đầu câu trong mục hoạt động của giáo viên và không ghi HS ở đầu câu trong mục hoạt động của học sinh
                 - Tiết học chỉ có 35 phút, hãy điều chỉnh lượng kiến thức và hoạt động hợp lý.
                 - Không kèm chú thích nguồn trong bài soạn.
                 - Tuyệt đối chỉ bao gồm 4 Hoạt động, không phát sinh thêm.
